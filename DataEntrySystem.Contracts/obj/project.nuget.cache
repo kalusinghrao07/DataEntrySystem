@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "V2Mk00j8Ckgda9TRJJEf9mPzZcv6gNptNnvFPQP05tRV9fqHCWGcXIg/QipkHe5LJNGkarJR+6qNnoE3Aywl+w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\User\\Desktop\\DataEntrySystem\\DataEntrySystem.Contracts\\DataEntrySystem.Contracts.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\User\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.13\\microsoft.netcore.app.host.win-x64.3.1.13.nupkg.sha512"
+  ],
+  "logs": []
+}
